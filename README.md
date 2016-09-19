@@ -1,7 +1,7 @@
 # Project-Norm
 
-this is a java program that takes Relationship, no. of functional dependencies and we need
-scan all those functional dependencies line by line.
+this is a java program that takes Relationship, no. of functional dependencies and
+scans all those functional dependencies line by line.
 output will be guessing regarding candidate key , first normal for, second normal form and third
 normal form was done.
 
